@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="EventModels\" />
+    <Folder Include="Mapping\" />
+    <Folder Include="Models\RequestModels\" />
+    <Folder Include="Models\ResponseModels\" />
+    <Folder Include="Models\SettingModels\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Infrastructure.Persistence.Ef\Infrastructure.Persistence.Ef.csproj" />
+    <ProjectReference Include="..\Infrastructure.Utility\Infrastructure.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

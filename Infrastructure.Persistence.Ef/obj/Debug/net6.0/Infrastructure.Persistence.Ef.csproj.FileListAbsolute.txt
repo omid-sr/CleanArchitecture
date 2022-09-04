@@ -1,0 +1,17 @@
+C:\Users\Omid\source\repos\Template\Infrastructure.Persistence.Ef\bin\Debug\net6.0\Infrastructure.Persistence.Ef.deps.json
+C:\Users\Omid\source\repos\Template\Infrastructure.Persistence.Ef\bin\Debug\net6.0\Infrastructure.Persistence.Ef.runtimeconfig.json
+C:\Users\Omid\source\repos\Template\Infrastructure.Persistence.Ef\bin\Debug\net6.0\Infrastructure.Persistence.Ef.dll
+C:\Users\Omid\source\repos\Template\Infrastructure.Persistence.Ef\bin\Debug\net6.0\Infrastructure.Persistence.Ef.pdb
+C:\Users\Omid\source\repos\Template\Infrastructure.Persistence.Ef\bin\Debug\net6.0\Domain.dll
+C:\Users\Omid\source\repos\Template\Infrastructure.Persistence.Ef\bin\Debug\net6.0\Domain.pdb
+C:\Users\Omid\source\repos\Template\Infrastructure.Persistence.Ef\obj\Debug\net6.0\Infrastructure.Persistence.Ef.csproj.AssemblyReference.cache
+C:\Users\Omid\source\repos\Template\Infrastructure.Persistence.Ef\obj\Debug\net6.0\Infrastructure.Persistence.Ef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omid\source\repos\Template\Infrastructure.Persistence.Ef\obj\Debug\net6.0\Infrastructure.Persistence.Ef.AssemblyInfoInputs.cache
+C:\Users\Omid\source\repos\Template\Infrastructure.Persistence.Ef\obj\Debug\net6.0\Infrastructure.Persistence.Ef.AssemblyInfo.cs
+C:\Users\Omid\source\repos\Template\Infrastructure.Persistence.Ef\obj\Debug\net6.0\Infrastructure.Persistence.Ef.csproj.CoreCompileInputs.cache
+C:\Users\Omid\source\repos\Template\Infrastructure.Persistence.Ef\obj\Debug\net6.0\Infrastructure.Persistence.Ef.csproj.CopyComplete
+C:\Users\Omid\source\repos\Template\Infrastructure.Persistence.Ef\obj\Debug\net6.0\Infrastructure.Persistence.Ef.dll
+C:\Users\Omid\source\repos\Template\Infrastructure.Persistence.Ef\obj\Debug\net6.0\refint\Infrastructure.Persistence.Ef.dll
+C:\Users\Omid\source\repos\Template\Infrastructure.Persistence.Ef\obj\Debug\net6.0\Infrastructure.Persistence.Ef.pdb
+C:\Users\Omid\source\repos\Template\Infrastructure.Persistence.Ef\obj\Debug\net6.0\Infrastructure.Persistence.Ef.genruntimeconfig.cache
+C:\Users\Omid\source\repos\Template\Infrastructure.Persistence.Ef\obj\Debug\net6.0\ref\Infrastructure.Persistence.Ef.dll
