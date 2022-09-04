@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gFUUwb7+jt1JmC/p2RkGi8XxA08th0dKSL0t5Ysj7h4Fs1FQFtyFrVocnceX4TmJCGNbxLKAEElJ/0Wgf+lRFg==",
+  "dgSpecHash": "iWTP6gRQF3Wp5StdUjDUjHIpFCKss377QyTagbrIp9pxcyNMxxsbXBblWC6Y9Fg31LpwpbzNWXsA4KYyTi3U/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Omid\\source\\repos\\Template\\Application.Contract\\Application.Contract.csproj",
+  "projectFilePath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Application.Contract\\Application.Contract.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Omid\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Omid\\.nuget\\packages\\automapper.collection\\8.0.0\\automapper.collection.8.0.0.nupkg.sha512",

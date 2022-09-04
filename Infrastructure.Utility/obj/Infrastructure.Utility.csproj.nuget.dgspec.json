@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Utility\\Infrastructure.Utility.csproj": {}
+    "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Utility\\Infrastructure.Utility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Utility\\Infrastructure.Utility.csproj": {
+    "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Utility\\Infrastructure.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Utility\\Infrastructure.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Utility\\Infrastructure.Utility.csproj",
         "projectName": "Infrastructure.Utility",
-        "projectPath": "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Utility\\Infrastructure.Utility.csproj",
+        "projectPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Utility\\Infrastructure.Utility.csproj",
         "packagesPath": "C:\\Users\\Omid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Utility\\obj\\",
+        "outputPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

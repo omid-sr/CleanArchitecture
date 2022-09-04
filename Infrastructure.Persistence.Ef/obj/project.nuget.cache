@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gKXhf4r3TRtkIFYwWoCkcB5ADelhPdUKaT6w4zt76hzdokr73n3/Akilu9uut2t1GPDYn+Hc0tCAHBjedQdw1g==",
+  "dgSpecHash": "qyjWJOk0HA1S2OtGAMkiBoSnIxEQdMgwSHyQUqw8GSELj3M7nPzKGVK8f8oHTWQ4d+4DfL8oZZ4I9BuY0fCX5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Persistence.Ef\\Infrastructure.Persistence.Ef.csproj",
+  "projectFilePath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Persistence.Ef\\Infrastructure.Persistence.Ef.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Omid\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Omid\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YqXawdLksz1zW1DcT4m8lS3TmWQXJ9APSpf5tjQCt1HVuFfWJYo4+NN0yCIoq9FM7wS04hzMN6KR+jjiBOwpTw==",
+  "dgSpecHash": "Rjtw7qRqttPRwUiNrHyydVWgo9SO0i900nMcumDU9KGj5/Jiw1++qaDmRIKJZEVccSgYCWfnP8wzapZBIEC+tw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Omid\\source\\repos\\Template\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Omid\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

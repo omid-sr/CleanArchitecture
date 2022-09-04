@@ -1,0 +1,15 @@
+/.vs/*.sqlite
+/Application/bin
+/Application/obj
+/Application.Contract/bin
+/Application.Contract/obj
+/Domain/obj
+/Domain/bin
+/Infrastructure.Configuration/obj
+/Infrastructure.Configuration/bin
+/Infrastructure.Persistence.Ef/obj
+/Infrastructure.Persistence.Ef/bin
+/Infrastructure.Utility/obj
+/Infrastructure.Utility/bin
+/Presentation.Api/obj
+/Presentation.Api/bin

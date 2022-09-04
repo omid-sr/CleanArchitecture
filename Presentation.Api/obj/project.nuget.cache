@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Etsj0w0fzRxF87R0yOlwGAwWjcUIbgWPzDE7RJlo1WQV4CA+WE3GLGNB/TcfIfn29pDX/cKZ9iIPgusjHlHxcw==",
+  "dgSpecHash": "ff6ykqrCC293ROJmrt8Y9FgxMY/XHQ0RjghWQRLVJ7S77AytVOVX2m56P9cJNWtdiY2VMPAc/rbVnf7X5RPAyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Omid\\source\\repos\\Template\\Presentation.Api\\Presentation.Api.csproj",
+  "projectFilePath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Presentation.Api\\Presentation.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Omid\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\Omid\\.nuget\\packages\\automapper.collection\\8.0.0\\automapper.collection.8.0.0.nupkg.sha512",

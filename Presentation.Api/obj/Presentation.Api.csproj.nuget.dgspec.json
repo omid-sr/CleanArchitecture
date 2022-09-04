@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Omid\\source\\repos\\Template\\Presentation.Api\\Presentation.Api.csproj": {}
+    "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Presentation.Api\\Presentation.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Omid\\source\\repos\\Template\\Application.Contract\\Application.Contract.csproj": {
+    "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Application.Contract\\Application.Contract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omid\\source\\repos\\Template\\Application.Contract\\Application.Contract.csproj",
+        "projectUniqueName": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Application.Contract\\Application.Contract.csproj",
         "projectName": "Application.Contract",
-        "projectPath": "C:\\Users\\Omid\\source\\repos\\Template\\Application.Contract\\Application.Contract.csproj",
+        "projectPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Application.Contract\\Application.Contract.csproj",
         "packagesPath": "C:\\Users\\Omid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omid\\source\\repos\\Template\\Application.Contract\\obj\\",
+        "outputPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Application.Contract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Persistence.Ef\\Infrastructure.Persistence.Ef.csproj": {
-                "projectPath": "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Persistence.Ef\\Infrastructure.Persistence.Ef.csproj"
+              "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Persistence.Ef\\Infrastructure.Persistence.Ef.csproj": {
+                "projectPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Persistence.Ef\\Infrastructure.Persistence.Ef.csproj"
               },
-              "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Utility\\Infrastructure.Utility.csproj": {
-                "projectPath": "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Utility\\Infrastructure.Utility.csproj"
+              "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Utility\\Infrastructure.Utility.csproj": {
+                "projectPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Utility\\Infrastructure.Utility.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\Omid\\source\\repos\\Template\\Application\\Application.csproj": {
+    "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omid\\source\\repos\\Template\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Omid\\source\\repos\\Template\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Omid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omid\\source\\repos\\Template\\Application\\obj\\",
+        "outputPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Omid\\source\\repos\\Template\\Application.Contract\\Application.Contract.csproj": {
-                "projectPath": "C:\\Users\\Omid\\source\\repos\\Template\\Application.Contract\\Application.Contract.csproj"
+              "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Application.Contract\\Application.Contract.csproj": {
+                "projectPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Application.Contract\\Application.Contract.csproj"
               }
             }
           }
@@ -167,14 +167,14 @@
         }
       }
     },
-    "C:\\Users\\Omid\\source\\repos\\Template\\Domain\\Domain.csproj": {
+    "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omid\\source\\repos\\Template\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Omid\\source\\repos\\Template\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Omid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omid\\source\\repos\\Template\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -231,14 +231,14 @@
         }
       }
     },
-    "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Configuration\\Infrastructure.Configuration.csproj": {
+    "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Configuration\\Infrastructure.Configuration.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Configuration\\Infrastructure.Configuration.csproj",
+        "projectUniqueName": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Configuration\\Infrastructure.Configuration.csproj",
         "projectName": "Infrastructure.Configuration",
-        "projectPath": "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Configuration\\Infrastructure.Configuration.csproj",
+        "projectPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Configuration\\Infrastructure.Configuration.csproj",
         "packagesPath": "C:\\Users\\Omid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Configuration\\obj\\",
+        "outputPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Configuration\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -259,14 +259,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Omid\\source\\repos\\Template\\Application.Contract\\Application.Contract.csproj": {
-                "projectPath": "C:\\Users\\Omid\\source\\repos\\Template\\Application.Contract\\Application.Contract.csproj"
+              "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Application.Contract\\Application.Contract.csproj": {
+                "projectPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Application.Contract\\Application.Contract.csproj"
               },
-              "C:\\Users\\Omid\\source\\repos\\Template\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Omid\\source\\repos\\Template\\Application\\Application.csproj"
+              "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Application\\Application.csproj"
               },
-              "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Persistence.Ef\\Infrastructure.Persistence.Ef.csproj": {
-                "projectPath": "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Persistence.Ef\\Infrastructure.Persistence.Ef.csproj"
+              "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Persistence.Ef\\Infrastructure.Persistence.Ef.csproj": {
+                "projectPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Persistence.Ef\\Infrastructure.Persistence.Ef.csproj"
               }
             }
           }
@@ -309,14 +309,14 @@
         }
       }
     },
-    "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Persistence.Ef\\Infrastructure.Persistence.Ef.csproj": {
+    "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Persistence.Ef\\Infrastructure.Persistence.Ef.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Persistence.Ef\\Infrastructure.Persistence.Ef.csproj",
+        "projectUniqueName": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Persistence.Ef\\Infrastructure.Persistence.Ef.csproj",
         "projectName": "Infrastructure.Persistence.Ef",
-        "projectPath": "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Persistence.Ef\\Infrastructure.Persistence.Ef.csproj",
+        "projectPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Persistence.Ef\\Infrastructure.Persistence.Ef.csproj",
         "packagesPath": "C:\\Users\\Omid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Persistence.Ef\\obj\\",
+        "outputPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Persistence.Ef\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -337,8 +337,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Omid\\source\\repos\\Template\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Omid\\source\\repos\\Template\\Domain\\Domain.csproj"
+              "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Domain\\Domain.csproj"
               }
             }
           }
@@ -387,14 +387,14 @@
         }
       }
     },
-    "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Utility\\Infrastructure.Utility.csproj": {
+    "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Utility\\Infrastructure.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Utility\\Infrastructure.Utility.csproj",
+        "projectUniqueName": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Utility\\Infrastructure.Utility.csproj",
         "projectName": "Infrastructure.Utility",
-        "projectPath": "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Utility\\Infrastructure.Utility.csproj",
+        "projectPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Utility\\Infrastructure.Utility.csproj",
         "packagesPath": "C:\\Users\\Omid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Utility\\obj\\",
+        "outputPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -459,14 +459,14 @@
         }
       }
     },
-    "C:\\Users\\Omid\\source\\repos\\Template\\Presentation.Api\\Presentation.Api.csproj": {
+    "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Presentation.Api\\Presentation.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omid\\source\\repos\\Template\\Presentation.Api\\Presentation.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Presentation.Api\\Presentation.Api.csproj",
         "projectName": "Presentation.Api",
-        "projectPath": "C:\\Users\\Omid\\source\\repos\\Template\\Presentation.Api\\Presentation.Api.csproj",
+        "projectPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Presentation.Api\\Presentation.Api.csproj",
         "packagesPath": "C:\\Users\\Omid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omid\\source\\repos\\Template\\Presentation.Api\\obj\\",
+        "outputPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Presentation.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -487,11 +487,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Omid\\source\\repos\\Template\\Application.Contract\\Application.Contract.csproj": {
-                "projectPath": "C:\\Users\\Omid\\source\\repos\\Template\\Application.Contract\\Application.Contract.csproj"
+              "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Application.Contract\\Application.Contract.csproj": {
+                "projectPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Application.Contract\\Application.Contract.csproj"
               },
-              "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Configuration\\Infrastructure.Configuration.csproj": {
-                "projectPath": "C:\\Users\\Omid\\source\\repos\\Template\\Infrastructure.Configuration\\Infrastructure.Configuration.csproj"
+              "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Configuration\\Infrastructure.Configuration.csproj": {
+                "projectPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Configuration\\Infrastructure.Configuration.csproj"
               }
             }
           }
