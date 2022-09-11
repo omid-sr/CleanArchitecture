@@ -10,12 +10,14 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace Infrastructure.Configuration.Containers;
 
-public class ServiceContainer
+public static class ServiceContainer
 {
-    public static void RegisterServices(IServiceCollection service, IConfiguration configuration)
+    public static void RegisterServices(this IServiceCollection service, IConfiguration configuration)
     {
         AddScopedServives(service,configuration);
         AddDbContext(service, configuration);
+        
+        service.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
     }
 
     private static void AddDbContext(IServiceCollection service, IConfiguration configuration)

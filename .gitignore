@@ -1,6 +1,6 @@
 /.vs/*.sqlite
-/Application/bin
-/Application/obj
+Application/bin
+Application/obj
 /Application.Contract/bin
 /Application.Contract/obj
 /Domain/obj

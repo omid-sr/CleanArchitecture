@@ -2,7 +2,7 @@
 
 namespace Domain.Interfaces;
 
-public interface ITestRepository 
+public interface ITestRepository  :IGenericRepository<Test>
 {
     
 }

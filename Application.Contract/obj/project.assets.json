@@ -1951,11 +1951,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Application.Contract\\Application.Contract.csproj",
+      "projectUniqueName": "C:\\Users\\Omid\\source\\repos\\CleanArchitecture\\Application.Contract\\Application.Contract.csproj",
       "projectName": "Application.Contract",
-      "projectPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Application.Contract\\Application.Contract.csproj",
+      "projectPath": "C:\\Users\\Omid\\source\\repos\\CleanArchitecture\\Application.Contract\\Application.Contract.csproj",
       "packagesPath": "C:\\Users\\Omid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Application.Contract\\obj\\",
+      "outputPath": "C:\\Users\\Omid\\source\\repos\\CleanArchitecture\\Application.Contract\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1976,11 +1976,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Persistence.Ef\\Infrastructure.Persistence.Ef.csproj": {
-              "projectPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Persistence.Ef\\Infrastructure.Persistence.Ef.csproj"
+            "C:\\Users\\Omid\\source\\repos\\CleanArchitecture\\Infrastructure.Persistence.Ef\\Infrastructure.Persistence.Ef.csproj": {
+              "projectPath": "C:\\Users\\Omid\\source\\repos\\CleanArchitecture\\Infrastructure.Persistence.Ef\\Infrastructure.Persistence.Ef.csproj"
             },
-            "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Utility\\Infrastructure.Utility.csproj": {
-              "projectPath": "C:\\Users\\Omid\\Source\\Repos\\CleanArchitecture\\Infrastructure.Utility\\Infrastructure.Utility.csproj"
+            "C:\\Users\\Omid\\source\\repos\\CleanArchitecture\\Infrastructure.Utility\\Infrastructure.Utility.csproj": {
+              "projectPath": "C:\\Users\\Omid\\source\\repos\\CleanArchitecture\\Infrastructure.Utility\\Infrastructure.Utility.csproj"
             }
           }
         }

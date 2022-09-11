@@ -10,7 +10,6 @@
     <Folder Include="EventModels\" />
     <Folder Include="Mapping\" />
     <Folder Include="Models\RequestModels\" />
-    <Folder Include="Models\ResponseModels\" />
     <Folder Include="Models\SettingModels\" />
   </ItemGroup>
 
